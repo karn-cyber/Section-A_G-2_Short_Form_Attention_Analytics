@@ -6,7 +6,7 @@ Use this file to store the final public links for your Tableau deliverables.
 
 | Item | Link | Notes |
 |---|---|---|
-| Tableau Public Dashboard | (Link)[https://public.tableau.com/app/profile/neelanshu.karn/viz/DVA-G-2-AttentionSpanAnalysis/Dashboard1?publish=yes] | _Main submission link_ |
+| Tableau Public Dashboard | [Link](https://public.tableau.com/app/profile/neelanshu.karn/viz/DVA-G-2-AttentionSpanAnalysis/Dashboard1?publish=yes) | _Main submission link_ |
 
 
 ## Screenshot Checklist
